@@ -1,0 +1,12 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL": "Courchevel",
+      "MENU.LANDINGCHALLENGE.NAME_COURCHEVEL_Descr": "LFLJ, France",
+      "MENU.LIVE_EVENT_BRIEFING": "For the next two weeks, compete in a new time limited landing challenge to reach the top of the leaderboard. <br> <br> Courchevel Altiport is serving Courchevel, a ski resort in the French Alps. The airfield has a very short runway. There is no go-around procedure for landings at Courchevel, due to the surrounding mountainous terrain.",
+      "MENU.LIVE_EVENT_DESC": "Current Live Event - Landing Challenge ",
+      "MENU.LIVE_EVENT_TITLE": "Courchevel"
+    }
+  }
+}

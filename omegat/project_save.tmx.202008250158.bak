@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T085624Z" creationid="Sefan" creationdate="20200824T085624Z">
+        <seg>&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building on a proven airframe design, this single-engine utility turboprop boasts numerous enhancements to the Garmin G1000 avionics suite, the interior and the ice protection system -- however, the real-deal appeal of the EX is power.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T155233Z" creationid="Sefan" creationdate="20200824T155233Z">
+        <seg>这种单引擎通用涡轮螺旋桨飞机建立在久经考验的机身设计基础上，对Garmin G1000航空电子套件、内饰和防冰系统进行了大量增强，然而，EX真正的吸引力在于动力。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineered to handle challenging missions, high payloads and short, rough runways, the rugged and versatile Grand Caravan EX has quickly become a favorite of regional airlines, charter operators and cargo carriers worldwide.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T090059Z" creationid="Sefan" creationdate="20200824T085913Z">
+        <seg>大篷车EX专为处理高难度任务、高载荷工况以及短而粗糙的跑道而设计，它坚固耐用，用途广泛，迅速成为全球地区性航空公司、包机运营商和货运公司的最爱。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Officially named the 208B Caravan, but marketed as the Grand Caravan, the very first version of this Cessna multitasker was certified in 1986, with the modern Grand Caravan EX arriving over 25 years later in 2012.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T085934Z" creationid="Sefan" creationdate="20200824T085619Z">
+        <seg>官方命名为208B Caravan，但营销名称为大篷车(Grand Caravan)，这款塞斯纳多任务机型的第一个版本于1986年获得认证，而最新机型大篷车EX于25年后的2012年正式发售。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The updated Pratt &amp; Whitney Canada PT6A-140 engine generates 867 horsepower, plenty of muscle for increased speed, improved climb capability, and greater payload performance -- all the while delivering superior efficiency and single-engine simplicity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T175759Z" creationid="Sefan" creationdate="20200824T175759Z">
+        <seg>最新的普·惠（加拿大）PT6A-140发动机能产生867马力，有足够的动力来提高速度、改善爬升能力和更好的有效载荷性能，同时提供卓越的效率和单引擎简单性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en-US</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T084816Z" creationid="Sefan" creationdate="20200824T084816Z">
+        <seg>zh-CN</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

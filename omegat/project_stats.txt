@@ -1,0 +1,73 @@
+20-8-25 上午2:47
+项目统计数据
+
+       	   片段数	   单词数	字符数（不计空格）	字符数（计入空格）	#文件数	
+总共：    	162831	350222	  1977823	  2160180	  60	
+剩余片段：  	162693	349452	  1973579	  2155321	  58	
+独特片段：  	 70649	208220	  1200801	  1333710	  60	
+剩余独特片段：	 70619	207563	  1197156	  1329455	  58	
+
+
+各文件统计数据：
+
+文件名                                                          	  总片段数	 剩余片段数	独特片段数	剩余独特片段数	  总单词数	 剩余单词数	 独特单词数	剩余独特单词数	总字符数（不计空格）	剩余字符数（不计空格）	独特字符数（不计空格）	剩余独特字符数（不计空格）	总字符数（计入空格）	剩余字符数（计入空格）	独特字符数（计入空格）	剩余独特字符数（计入空格）	
+asobo-aircraft-208b-grand-caravan-ex/en-US.locPak            	    11	     0	    9	      0	   178	     0	   176	      0	      1008	          0	        998	            0	      1174	          0	       1164	            0	
+asobo-aircraft-a320-neo/en-US.locPak                         	    15	     1	   10	      1	   218	     1	   213	      1	      1252	          7	       1226	            7	      1447	          7	       1421	            7	
+asobo-aircraft-b7478i/en-US.locPak                           	    16	     0	   12	      0	   273	     0	   269	      0	      1448	          0	       1428	            0	      1697	          0	       1677	            0	
+asobo-aircraft-bonanza-g36/en-US.locPak                      	    14	     9	    9	      9	   254	   248	   248	    248	      1376	       1341	       1341	         1341	      1616	       1580	       1580	         1580	
+asobo-aircraft-c152/en-US.locPak                             	     5	     3	    3	      3	   186	   183	   183	    183	       964	        944	        944	          944	      1137	       1116	       1116	         1116	
+asobo-aircraft-c172sp-as1000/en-US.locPak                    	     6	     4	    4	      4	   195	   192	   192	    192	      1066	       1046	       1046	         1046	      1246	       1225	       1225	         1225	
+asobo-aircraft-cap10c/en-US.locPak                           	     6	     5	    5	      5	   168	   167	   167	    167	       920	        915	        915	          915	      1073	       1068	       1068	         1068	
+asobo-aircraft-cj4/en-US.locPak                              	    10	     5	    5	      5	   186	   180	   180	    180	      1044	       1009	       1009	         1009	      1218	       1182	       1182	         1182	
+asobo-aircraft-da40-ng/en-US.locPak                          	     7	     6	    6	      6	   177	   176	   176	    176	      1017	       1012	       1012	         1012	      1181	       1176	       1176	         1176	
+asobo-aircraft-da62/en-US.locPak                             	    14	    10	    9	      9	   215	   211	   209	    209	      1258	       1238	       1223	         1223	      1459	       1439	       1423	         1423	
+asobo-aircraft-dr400/en-US.locPak                            	    13	     9	    8	      8	   183	   179	   178	    178	      1003	        983	        978	          978	      1168	       1148	       1143	         1143	
+asobo-aircraft-e330/en-US.locPak                             	    14	    10	   10	     10	   196	   192	   192	    192	      1163	       1143	       1143	         1143	      1342	       1322	       1322	         1322	
+asobo-aircraft-flightdesignct/en-US.locPak                   	     7	     6	    6	      6	   210	   209	   209	    209	      1206	       1201	       1201	         1201	      1402	       1397	       1397	         1397	
+asobo-aircraft-icon/en-US.locPak                             	     7	     6	    5	      5	   219	   218	   217	    217	      1159	       1154	       1149	         1149	      1359	       1354	       1349	         1349	
+asobo-aircraft-kingair350/en-US.locPak                       	    12	     7	    6	      6	   195	   189	   188	    188	      1078	       1043	       1038	         1038	      1259	       1223	       1218	         1218	
+asobo-aircraft-pitts/en-US.locPak                            	    13	     9	    9	      9	   197	   193	   193	    193	      1049	       1029	       1029	         1029	      1227	       1207	       1207	         1207	
+asobo-aircraft-savage-cub/en-US.locPak                       	    11	     7	    7	      7	   192	   188	   188	    188	      1048	       1028	       1028	         1028	      1227	       1207	       1207	         1207	
+asobo-aircraft-tbm930/en-US.locPak                           	    89	    88	   87	     87	   455	   454	   453	    453	      2253	       2248	       2243	         2243	      2609	       2604	       2599	         2599	
+asobo-aircraft-vl3/en-US.locPak                              	     7	     6	    6	      6	   178	   177	   177	    177	       962	        957	        957	          957	      1120	       1115	       1115	         1115	
+asobo-aircraft-xcub/en-US.locPak                             	    11	     7	    7	      7	   178	   174	   174	    174	       972	        952	        952	          952	      1137	       1117	       1117	         1117	
+asobo-bushtrip-balkans/en-US.locPak                          	   535	   534	  510	    510	  6485	  6484	  6226	   6226	     31521	      31516	      30320	        30320	     37487	      37482	      36052	        36052	
+asobo-bushtrip-chile/en-US.locPak                            	   571	   570	  489	    489	  5763	  5762	  5142	   5142	     26589	      26584	      23747	        23747	     31781	      31776	      28400	        28400	
+asobo-bushtrip-nevada/en-US.locPak                           	   489	   488	  449	    449	  6019	  6018	  5676	   5676	     29525	      29520	      27819	        27819	     35080	      35075	      33069	        33069	
+asobo-flight-tutorials-basiccontrols/en-US.locPak            	   203	   202	  186	    186	  1717	  1716	  1629	   1629	      8290	       8285	       7890	         7890	      9799	       9794	       9328	         9328	
+asobo-flight-tutorials-basicinstruments/en-US.locPak         	   165	   164	  139	    139	  1605	  1604	  1415	   1415	      7746	       7741	       6873	         6873	      9190	       9185	       8150	         8150	
+asobo-flight-tutorials-firstnavigationsolo/en-US.locPak      	    59	    58	   48	     48	   419	   418	   322	    322	      2074	       2069	       1618	         1618	      2431	       2426	       1889	         1889	
+asobo-flight-tutorials-firstsoloflight/en-US.locPak          	    50	    49	   39	     39	   339	   338	   254	    254	      1566	       1561	       1188	         1188	      1851	       1846	       1399	         1399	
+asobo-flight-tutorials-landing/en-US.locPak                  	    96	    95	   78	     78	   919	   918	   780	    780	      4174	       4169	       3555	         3555	      4989	       4984	       4249	         4249	
+asobo-flight-tutorials-navinstruments/en-US.locPak           	   118	   117	   95	     95	  1058	  1057	   965	    965	      5283	       5278	       4797	         4797	      6224	       6219	       5668	         5668	
+asobo-flight-tutorials-takeoff/en-US.locPak                  	   160	   159	  128	    128	  1457	  1456	  1211	   1211	      6684	       6679	       5561	         5561	      7979	       7974	       6640	         6640	
+asobo-flight-tutorials-trafficpattern/en-US.locPak           	   105	   104	   70	     70	  1018	  1017	   796	    796	      4553	       4548	       3560	         3560	      5452	       5447	       4273	         4273	
+asobo-freeflights/en-US.locPak                               	    43	    42	   42	     42	   241	   240	   240	    240	      1348	       1343	       1343	         1343	      1546	       1541	       1541	         1541	
+asobo-landingchallenge-cytz-billy-bishop/en-US.locPak        	     5	     4	    4	      4	    61	    60	    60	     60	       322	        317	        317	          317	       378	        373	        373	          373	
+asobo-landingchallenge-eidl-donegal/en-US.locPak             	     5	     4	    4	      4	    56	    55	    55	     55	       310	        305	        305	          305	       361	        356	        356	          356	
+asobo-landingchallenge-kase-aspen/en-US.locPak               	     5	     4	    4	      4	    51	    50	    50	     50	       264	        259	        259	          259	       309	        304	        304	          304	
+asobo-landingchallenge-keb-nanwalek/en-US.locPak             	     5	     4	    4	      4	    48	    47	    47	     47	       251	        246	        246	          246	       294	        289	        289	          289	
+asobo-landingchallenge-kjac-jackson/en-US.locPak             	     5	     4	    4	      4	    51	    50	    50	     50	       269	        264	        264	          264	       315	        310	        310	          310	
+asobo-landingchallenge-ksez-sedona/en-US.locPak              	     5	     4	    4	      4	    48	    47	    47	     47	       249	        244	        244	          244	       292	        287	        287	          287	
+asobo-landingchallenge-kswf-stewartintl/en-US.locPak         	     5	     4	    4	      4	    59	    58	    58	     58	       328	        323	        323	          323	       383	        378	        378	          378	
+asobo-landingchallenge-lflj-courchevel/en-US.locPak          	     5	     4	    4	      4	    52	    51	    51	     51	       324	        319	        319	          319	       371	        366	        366	          366	
+asobo-landingchallenge-lfmn-nice/en-US.locPak                	     6	     5	    5	      5	    72	    71	    71	     71	       368	        363	        363	          363	       434	        429	        429	          429	
+asobo-landingchallenge-lowi-innsbruck/en-US.locPak           	     5	     4	    4	      4	    57	    56	    56	     56	       317	        312	        312	          312	       369	        364	        364	          364	
+asobo-landingchallenge-lpma-madeira/en-US.locPak             	     5	     4	    4	      4	    68	    67	    67	     67	       366	        361	        361	          361	       430	        425	        425	          425	
+asobo-landingchallenge-lxgb-gibraltar/en-US.locPak           	     5	     4	    4	      4	    56	    55	    55	     55	       313	        308	        308	          308	       364	        359	        359	          359	
+asobo-landingchallenge-mhtg-toncontin/en-US.locPak           	     5	     4	    4	      4	    49	    48	    48	     48	       283	        278	        278	          278	       327	        322	        322	          322	
+asobo-landingchallenge-mynn-nassau/en-US.locPak              	     4	     3	    3	      3	    43	    42	    42	     42	       224	        219	        219	          219	       264	        259	        259	          259	
+asobo-landingchallenge-nzqn-queenstown/en-US.locPak          	     5	     4	    4	      4	    60	    59	    59	     59	       328	        323	        323	          323	       383	        378	        378	          378	
+asobo-landingchallenge-sbgl-riodejaneiro/en-US.locPak        	     5	     4	    4	      4	    72	    71	    71	     71	       340	        335	        335	          335	       407	        402	        402	          402	
+asobo-landingchallenge-scld-llanadagrande/en-US.locPak       	     5	     4	    4	      4	    45	    44	    44	     44	       231	        226	        226	          226	       271	        266	        266	          266	
+asobo-landingchallenge-seqm-mariscal-sucre-quito/en-US.locPak	     5	     4	    4	      4	    56	    55	    55	     55	       301	        296	        296	          296	       353	        348	        348	          348	
+asobo-landingchallenge-tffj-gustaf/en-US.locPak              	     5	     4	    4	      4	    63	    62	    62	     62	       301	        296	        296	          296	       360	        355	        355	          355	
+asobo-landingchallenge-tncs-saba/en-US.locPak                	     5	     4	    4	      4	    66	    65	    65	     65	       318	        313	        313	          313	       379	        374	        374	          374	
+asobo-landingchallenge-vnlk-lukla/en-US.locPak               	     5	     4	    4	      4	    63	    62	    62	     62	       318	        313	        313	          313	       376	        371	        371	          371	
+asobo-landingchallenge-vqpr-paro/en-US.locPak                	     5	     4	    4	      4	    68	    67	    67	     67	       329	        324	        324	          324	       392	        387	        387	          387	
+asobo-landingchallenge-wx53-bugalaga/en-US.locPak            	     5	     4	    4	      4	    45	    44	    44	     44	       265	        260	        260	          260	       305	        300	        300	          300	
+asobo-landingchallenge-yssy-sydney/en-US.locPak              	     5	     4	    4	      4	    60	    59	    59	     59	       331	        326	        326	          326	       386	        381	        381	          381	
+asobo-liveevent/en-US.locPak                                 	     9	     8	    5	      5	    66	    65	    61	     61	       350	        345	        314	          314	       408	        403	        371	          371	
+fs-base-aircraft-common/en-US.locPak                         	    22	    21	   21	     21	   137	   136	   136	    136	       642	        637	        637	          637	       757	        752	        752	          752	
+fs-base-onboarding/en-US.locPak                              	   358	   357	  319	    319	  3779	  3778	  3713	   3713	     21416	      21411	      21184	        21184	     24717	      24712	      24458	        24458	
+fs-base/en-US.locPak                                         	159440	159431	67712	  67712	313578	313569	174127	 174127	   1795566	    1795513	    1030405	      1030405	   1944888	    1944835	    1132382	      1132382	

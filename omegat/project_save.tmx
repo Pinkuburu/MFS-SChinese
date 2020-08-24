@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>747-8 Intercontinental</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T183304Z" creationid="Sefan" creationdate="20200824T183304Z">
+        <seg>747-8洲际客机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T085624Z" creationid="Sefan" creationdate="20200824T085624Z">
+        <seg>&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust selected heading to the left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T183318Z" creationid="Sefan" creationdate="20200824T183318Z">
+        <seg>将选定航向向左调整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust selected heading to the left (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T181520Z" creationid="Sefan" creationdate="20200824T181520Z">
+        <seg>将所选航向向左调整(%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust selected heading to the right</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T183326Z" creationid="Sefan" creationdate="20200824T183326Z">
+        <seg>将选定航向向右调整</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust selected heading to the right  (%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T181539Z" creationid="Sefan" creationdate="20200824T181539Z">
+        <seg>将选定航向向右调整(%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After an extended development process, the A320neo officially entered service in early 2016 with Lufthansa, and quickly became the fastest-selling commercial aircraft ever, with more than 7,000 planes ordered by more than 115 airlines to date.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180743Z" creationid="Sefan" creationdate="20200824T180743Z">
+        <seg>经过延长的开发过程，A320neo于2016年初在汉莎航空正式投入使用，并迅速成为有史以来销售最快的商用飞机。迄今已有115多家航空公司订购了超过7000架A320neo飞机。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After decades exploring larger-capacity versions, in 2004 Boeing announced the 747 Advanced -- a stretched model they officially designated as the 747-8 a year later, with a Freighter variant (747-8F) for cargo launching in October 2011, and an Intercontinental variant (747-8I) for passengers taking flight with Lufthansa in June 2012.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T182253Z" creationid="Sefan" creationdate="20200824T182253Z">
+        <seg>在探索了几十年的更大容量机型后，波音公司在2004年宣布了747 Advanced机型（-一年后正式指定为747-8的加长型）。随后，在2011年10月推出了货运机型(747-8F)，以及在2012年6月推出了搭载汉莎航空公司航班乘客的洲际机型(747-8I)。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Air Force study into supersized strategic transport aircraft.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T181957Z" creationid="Sefan" creationdate="20200824T181957Z">
+        <seg>空军研究超大型战略运输机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Airbus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T181314Z" creationid="Sefan" creationdate="20200824T181314Z">
+        <seg>空中客车公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Airbus launched their first A320 in March of 1984.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180600Z" creationid="Sefan" creationdate="20200824T180600Z">
+        <seg>空中客车公司于1984年3月推出了他们的第一架A320飞机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As an evolution of the 747-400, the 747-8 refines and upgrades its predecessor's engines, at the same time utilizing extensive cockpit technology from the 787 Dreamliner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T182458Z" creationid="Sefan" creationdate="20200824T182458Z">
+        <seg>作为747-400的演进版本，747-8对其前代的发动机进行了改进和升级，同时采用了787梦幻客机(Dreamliner)的诸多驾驶舱技术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boeing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T183241Z" creationid="Sefan" creationdate="20200824T183241Z">
+        <seg>波音公司</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Building on a proven airframe design, this single-engine utility turboprop boasts numerous enhancements to the Garmin G1000 avionics suite, the interior and the ice protection system -- however, the real-deal appeal of the EX is power.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T155233Z" creationid="Sefan" creationdate="20200824T155233Z">
+        <seg>这种单引擎通用涡轮螺旋桨飞机建立在久经考验的机身设计基础上，对Garmin G1000航空电子套件、内饰和防冰系统进行了大量增强，然而，EX真正的吸引力在于动力。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But one look at its silhouette and the lineage shines through, in the elegant curves of its double-decker form that make it one of the most recognizable planes in the world, forever worthy of the graceful nickname bestowed on the first of its line: 'Queen of the Skies'.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T183238Z" creationid="Sefan" creationdate="20200824T183238Z">
+        <seg>但看看它的外形和内涵其中的血统，你就会发现：它那双层甲板外的优雅曲线让它成为世界上最知名的飞机之一，永远无愧于它的第一个型号系列被授予的优雅绰号：“天空女王”(Queen Of The Skies)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cessna 208 B Grand Caravan EX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180535Z" creationid="Sefan" creationdate="20200824T180441Z">
+        <seg>塞斯纳 208 B Grand Caravan EX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continuing the tradition established by the original A320, which was the first airliner other than Concorde to use fly-by-wire control for normal operations, the A320neo shares over 95 percent airframe commonality with predecessor models.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180914Z" creationid="Sefan" creationdate="20200824T180914Z">
+        <seg>A320neo延续了最初A320机型所建立的传统：这是除协和式飞机外第一架使用电传控制进行常规操作的客机，A320neo与前代机型有超过95%的相似度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineered to handle challenging missions, high payloads and short, rough runways, the rugged and versatile Grand Caravan EX has quickly become a favorite of regional airlines, charter operators and cargo carriers worldwide.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T090059Z" creationid="Sefan" creationdate="20200824T085913Z">
+        <seg>大篷车EX专为处理高难度任务、高载荷工况以及短而粗糙的跑道而设计，它坚固耐用，用途广泛，迅速成为全球地区性航空公司、包机运营商和货运公司的最爱。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fuel savings, extended range, increased max payload and shortened landing distance; these key advances -- along with a dramatic reduction in noise and CO₂ emissions -- prove why the A320neo is a not only a commercial success, but also a significant step forward on aviation's path to greater environmental responsibility.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T181310Z" creationid="Sefan" creationdate="20200824T181126Z">
+        <seg>节省燃油、延长航程、增加最大有效载荷、缩短着陆距离以及噪音和CO₂排放的大幅减少——这些关键性的改进证明了A320neo不仅只是在商业上取得了成功，而且更是在航空业承担更大的环境责任的道路上向前迈出了重要的一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it's the introduction of two new-generation engine types, paired with the company's proprietary 'Sharklet' wing-tips, that really sets the neo apart.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T181002Z" creationid="Sefan" creationdate="20200824T181002Z">
+        <seg>然而，正是引入了两种新一代发动机类型，再加上该公司的专利——“鲨鱼”翼尖，才真正让neo机型与众不同。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nearly 26 years later, in 2010, they announced the A320neo ("new engine option") as the newest member of the family, to revitalize and sustain their line of world-leading, narrow-body, twin-turbofan airliners.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180659Z" creationid="Sefan" creationdate="20200824T180659Z">
+        <seg>在近26年后的2010年，他们宣布A320neo（New Engine Option，新发动机选项）成为该机型家族的最新成员，以此来振兴和维持这个世界领先的窄体双涡扇客机系列。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Officially named the 208B Caravan, but marketed as the Grand Caravan, the very first version of this Cessna multitasker was certified in 1986, with the modern Grand Caravan EX arriving over 25 years later in 2012.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180452Z" creationid="Sefan" creationdate="20200824T085619Z">
+        <seg>官方命名为 208B Caravan，但营销名称为大篷车(Grand Caravan)，这款塞斯纳多任务机型的第一个版本于1986年获得认证，而最新机型大篷车EX于25年后的2012年正式发售。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Textron Aviation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180404Z" creationid="Sefan" creationdate="20200824T180404Z">
+        <seg>德事隆航空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The 747 was first conceived in the 1960s, as Boeing's proposed entry for a U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T181941Z" creationid="Sefan" creationdate="20200824T181603Z">
+        <seg>波音747最初是在20世纪60年代构思出来的，当时波音公司计划进入美国市场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is a high-tech, low-weight powerhouse designed for increased performance, reduced noise, and ultra low emissions -- a design further improved by a thoroughly re-imagined wing system that decreases wake turbulence and drag, boosting fuel economy, range, and overall aerodynamics.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T182802Z" creationid="Sefan" creationdate="20200824T182802Z">
+        <seg>结果，波音设计了一个高科技、低重量的超强机型，为提高性能、降低噪音和超低排放而专门优化设计。这一设计通过对彻底重构的机翼系统进一步改进，减少了尾流湍流和阻力，提高了燃油经济性、航程和整体空气动力形态。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The updated Pratt &amp; Whitney Canada PT6A-140 engine generates 867 horsepower, plenty of muscle for increased speed, improved climb capability, and greater payload performance -- all the while delivering superior efficiency and single-engine simplicity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T175759Z" creationid="Sefan" creationdate="20200824T175759Z">
+        <seg>最新的普·惠（加拿大）PT6A-140发动机能产生867马力，有足够的动力来提高速度、改善爬升能力和更好的有效载荷性能，同时提供卓越的效率和单引擎简单性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wide-body commercial airliner would eventually enter public service with Pan Am World Airways in 1970, where it was dubbed the industry's first 'Jumbo Jet' and would go on to hold the passenger capacity record for 37 years.&lt;/br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T182033Z" creationid="Sefan" creationdate="20200824T182033Z">
+        <seg>这架宽体商用客机最终将于1970年进入泛美世界航空公司的公共服务业运营，在那里它被称为业内第一架“巨型喷气式飞机”，并将继续保持37年来的载客量纪录。&lt;/br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wherever you need to go, from pristine airstrips to adverse environments, the Cessna 208B Grand Caravan EX is the steadfast multi-mission aircraft that will get you there.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T180526Z" creationid="Sefan" creationdate="20200824T180209Z">
+        <seg>无论您需要去哪里，无论是配套设施老旧的简易跑道还是恶劣的环境，塞斯纳 208B Grand Caravan EX 都是您可靠的多任务飞机，能安全带您到达目的地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With its super-jumbo-jet size and 60 years worth of engineering maturity, the 747-8 could easily seem far-removed from its origins.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T182858Z" creationid="Sefan" creationdate="20200824T182858Z">
+        <seg>以其超大型喷气式飞机的尺寸和60年的工程成熟度，747-8很容易让人乍看起来与它的前身没什么关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en-US</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Sefan" changedate="20200824T084816Z" creationid="Sefan" creationdate="20200824T084816Z">
+        <seg>zh-CN</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
